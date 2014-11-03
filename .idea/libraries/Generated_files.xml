@@ -2,11 +2,27 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/main/webapp/src/app.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/src/layers/AnimationLayer.js" />
         <item url="file://$PROJECT_DIR$/src/main/webapp/src/namespaces.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/src/layers/BackgroundLayer.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/src/scenes/PlayScene.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/src/namespaces.js" />
+        <item url="file://$PROJECT_DIR$/src/main/webapp/src/layers/StatusLayer.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/main/webapp/src/CompositionScene.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/src/MenuLayer.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/src/CompositionScene.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/src/MenuLayer.js" />
       <root url="file://$PROJECT_DIR$/src/main/webapp/src/namespaces.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/src/layers/AnimationLayer.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/src/app.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/src/layers/BackgroundLayer.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/src/scenes/CompositionScene.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/src/namespaces.js" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/src/layers/StatusLayer.js" />
     </CLASSES>
     <SOURCES />
   </library>

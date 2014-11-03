@@ -2,7 +2,7 @@
     "project_type": "javascript",
 
     "debugMode" : 1,
-    "showFPS" : false,
+    "showFPS" : true,
     "frameRate" : 60,
     "id" : "gameCanvas",
     "renderMode" : 0,
@@ -12,7 +12,15 @@
 
     "jsList" : [
         "src/resource.js",
+        "src/app.js",
+        "src/namespaces.js",
 
-        "src/namespaces.js"
+        "src/layers/AnimationLayer.js",
+        "src/layers/BackgroundLayer.js",
+        "src/layers/StatusLayer.js",
+
+        "src/scenes/CompositionScene.js"
+
     ]
 }
+
