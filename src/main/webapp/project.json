@@ -1,0 +1,46 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/resource.js",
+
+        "src/namespaces.js",
+
+        "src/abstract/NodeBased.js",
+        "src/abstract/Connectable.js",
+
+        "src/shapes/Circle.js",
+        "src/shapes/Line.js",
+        "src/shapes/Pad.js",
+        "src/shapes/Ring.js",
+        "src/shapes/Rectangle.js",
+        "src/shapes/Text.js",
+        "src/shapes/Arrow.js",
+
+        "src/musicengine/MusicEngine.js",
+        "src/musicengine/TheoryBot.js",
+
+        "src/guiElements/Flower.js",
+        "src/guiElements/ConnectablePad.js",
+        "src/guiElements/SimpleButton.js",
+        "src/guiElements/FadingText.js",
+        "src/guiElements/Timeline.js",
+        "src/guiElements/PopupMenu.js",
+
+        "src/layers/FlowerLayer.js",
+        "src/layers/ConnectablesLayer.js",
+        "src/layers/MusicLayer.js",
+        "src/layers/StoreLayer.js",
+
+        "src/scenes/CompositionScene.js"
+    ]
+}
